@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sophomore at Georgia State University<br>Web Developer and Designer<br>Learning AI/ML<br>
+Sophomore at Georgia State University<br>Web Developer and Designer<br>Learning AI/ML<br>Open Source Projects Coming Soon
+
 
 
 ## 🌐 Socials:
